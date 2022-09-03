@@ -1,0 +1,4 @@
+DATABASE_NAME = "movies"
+DATABASE_HOST = "localhost"
+DATABASE_USER = "root"
+DATABASE_PASSWORD = "Amakarabaev29112004"
